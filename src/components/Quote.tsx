@@ -19,11 +19,7 @@ export const Quote: React.FC = () => {
             Singkat saja, akhirnya aku sampai juga 🎓🤍"
           </p>
         </div>
-        <div className="mt-10 flex items-center justify-center gap-4 opacity-60">
-          <div className="h-[1px] w-16 bg-gradient-to-r from-transparent via-white to-transparent"></div>
-          <div className="w-2 h-2 bg-white rotate-45"></div>
-          <div className="h-[1px] w-16 bg-gradient-to-r from-transparent via-white to-transparent"></div>
-        </div>
+
       </div>
 
       {/* Multi-layer Wave Transition to BrideGroom (White) */}
