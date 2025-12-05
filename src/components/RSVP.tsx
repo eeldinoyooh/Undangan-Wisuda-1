@@ -112,7 +112,7 @@ export const RSVP: React.FC = () => {
   };
 
   return (
-    <section className="py-20 px-4 bg-[#1a202c] border-t border-white/5">
+    <section className="py-20 px-4 bg-[#1a202c]">
       <div className="max-w-2xl mx-auto">
         {/* Form Section */}
         <div className="bg-[#2d3748] p-8 rounded-[3rem] shadow-2xl border-4 border-white ring-1 ring-gray-200 mb-12" data-aos="fade-up">
