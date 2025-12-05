@@ -68,30 +68,30 @@ export const graduationConfig = {
 
     // My Journey - Perjalanan Pendidikan
     myJourney: [
-        // {
-        //     title: "Awal Masuk",
-        //     year: "2021",
-        //     description: "Memulai perjalanan sebagai mahasiswa baru dengan penuh semangat dan harapan.",
-        //     icon: "book"
-        // },
-        // {
-        //     title: "Organisasi & Magang",
-        //     year: "2023",
-        //     description: "Aktif dalam organisasi kemahasiswaan dan mengikuti program magang untuk menambah pengalaman.",
-        //     icon: "briefcase"
-        // },
-        // {
-        //     title: "Skripsi",
-        //     year: "2025",
-        //     description: "Berjuang menyelesaikan tugas akhir sebagai syarat kelulusan.",
-        //     icon: "pen"
-        // },
-        // {
-        //     title: "Lulus",
-        //     year: "Desember 2025",
-        //     description: "Alhamdulillah, akhirnya berhasil menyelesaikan studi dan meraih gelar sarjana.",
-        //     icon: "graduation-cap"
-        // }
+        {
+            title: "Awal Masuk",
+            year: "2021",
+            description: "Memulai perjalanan sebagai mahasiswa baru dengan penuh semangat dan harapan.",
+            icon: "book"
+        },
+        {
+            title: "Organisasi & Magang",
+            year: "2023",
+            description: "Aktif dalam organisasi kemahasiswaan dan mengikuti program magang untuk menambah pengalaman.",
+            icon: "briefcase"
+        },
+        {
+            title: "Skripsi",
+            year: "2025",
+            description: "Berjuang menyelesaikan tugas akhir sebagai syarat kelulusan.",
+            icon: "pen"
+        },
+        {
+            title: "Lulus",
+            year: "Desember 2025",
+            description: "Alhamdulillah, akhirnya berhasil menyelesaikan studi dan meraih gelar sarjana.",
+            icon: "graduation-cap"
+        }
     ],
 
     // Google Sheets Script URL

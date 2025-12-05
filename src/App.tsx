@@ -3,7 +3,7 @@ import { Cover } from './components/Cover';
 import { Hero } from './components/Hero';
 import { Quote } from './components/Quote';
 import { GraduateProfile } from './components/GraduateProfile';
-import { MyJourney } from './components/MyJourney';
+
 import { EventDetails } from './components/EventDetails';
 import { Gallery } from './components/Gallery';
 import { Gift } from './components/Gift';
